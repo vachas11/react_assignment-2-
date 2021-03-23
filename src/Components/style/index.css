@@ -1,0 +1,38 @@
+.container {
+
+    margin-Left: 250px;
+}
+
+
+.row {
+   
+
+    margin-Top:5px;
+   width: 20%;
+   margin: 40px; 
+   padding: 5px;
+   float: left;
+   box-shadow: 0 4px 8px 0 rgba(46, 40, 40, 0.2);
+}
+
+.col-md {
+
+   margin: 10px;
+   margin-left: 10px;
+   text-align: center;
+}
+
+.align {
+
+    width: 110%;
+    margin-Left:-20px;
+    padding:auto;
+
+}
+
+.mail {
+    
+      width:200px;
+     margin-Left:-20px;
+}
+ 
